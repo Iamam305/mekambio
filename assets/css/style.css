@@ -6337,7 +6337,7 @@ h1, h2, h3, h4, h5, h6, .bg-text, .coach-filter li, .newsletter-radios {
       left: calc(33% + 50px); } }
   @media only screen and (max-width: 991px) {
     .testimonial-two-wrap .slick-dots {
-      bottom: 0;
+      bottom: 250px;
       left: auto;
       position: relative; } }
   .testimonial-two-wrap .slick-dots li.slick-active {
